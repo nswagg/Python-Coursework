@@ -22,3 +22,5 @@ The following is a list of the descriptions of each file if the file has one and
 - EX1: Renaming filenames with American MM-DD-YYYY date format to Asian date format: YYYY-MM-DD // Uses REGEX; Pathing, File I/O
 - EX2: Program scans Desktop folder for all files with .pdf file extension and places them into a subfolder on the Desktop // Uses Pathing, directory walking
 - EX3: The program creates an arbitrary number of threads defined by the user and executes a function and running DEBUG logging with each thread before    pausing and terminating. // Uses threading, debug logging
+
+### _See the folder titled MORE EXAMPLES for a few extra, small examples. Generators, decorators, and web-scraping_
